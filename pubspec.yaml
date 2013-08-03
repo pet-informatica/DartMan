@@ -1,0 +1,4 @@
+name: DartMan
+description: A sample web application
+dependencies:
+  browser: any
